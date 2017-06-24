@@ -86,7 +86,7 @@ function instructions()
 	gameArena.shadowColor = "#18CAE6";
 	gameArena.font = "25px DJB";
 	gameArena.fillStyle = "#E6FFFF";
-	gameArena.fillText(str10,width-150,height-90);
+	gameArena.fillText(str10,width-150,height-120);
 	gameArena.shadowBlur = 10;
 	gameArena.shadowColor = "#18CAE6";
 	gameArena.drawImage(mainShip, width-152*(width/1220), height-94*(width/1220), 150*(width/1220), 89*(width/1220));
